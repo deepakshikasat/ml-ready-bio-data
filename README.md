@@ -25,6 +25,11 @@
 - `outputs/batch_effect_demo.csv`
 - `figures/batch_effect_accuracy.svg`
 
+    ## Analysis Report
+
+    Open `reports/analysis_report.html` for the full hypothesis, data provenance,
+    process, outputs, and interpretation narrative.
+
     ## Portfolio Note
 
     This repository uses public or synthetic demonstration data only. It is
