@@ -1,0 +1,6 @@
+- Prediction target is explicit
+- Labels are reproducible
+- Batches are balanced
+- Metadata dictionary exists
+- Train/test split avoids leakage
+- Prospective validation plan exists

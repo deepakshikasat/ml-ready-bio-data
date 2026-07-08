@@ -1,0 +1,4 @@
+scenario,accuracy,interpretation
+confounded_batch,0.97,model mostly learns batch
+balanced_validation,0.58,performance collapses when batch is balanced
+after_batch_correction,0.78,biology signal becomes more realistic
